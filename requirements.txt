@@ -3,6 +3,5 @@ openai
 pandas
 python-dotenv
 streamlit
-gpt-3.5-turbo
 chromadb
 sqlite3
