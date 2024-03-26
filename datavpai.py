@@ -4,6 +4,7 @@ import pandas as pd
 import re
 import openai
 import os
+import sqlite3
 from dotenv import load_dotenv
 from openai import OpenAI
 from ast import main
