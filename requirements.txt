@@ -4,4 +4,4 @@ pandas
 python-dotenv
 streamlit
 chromadb
-
+sqlite3
